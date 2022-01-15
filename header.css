@@ -1,0 +1,19 @@
+
+
+a:link, a:active{
+color:black;
+background-color:transparent ;
+text-decoration:none;
+}
+
+a:hover{
+color:blue;
+background-color:transparent;
+text-decoration:underline;
+
+}
+
+a:active{
+color:blue;
+background-color:transparent;
+text-decoration:shade;}

@@ -1,0 +1,15 @@
+div.footer {
+color: white;
+position: fixed; 
+text-align: center;
+background-color: #224a6c; 
+padding: 20px 0 20px 0;
+left: 0px;
+right: 0px;
+bottom: 5px;
+width: 95%;
+}
+a.a{
+    color: rgb(179, 175, 175);
+}
+
